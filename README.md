@@ -1,16 +1,26 @@
+### hi, i'm steven 👋
 
+ceo @ **[IndustrialMind.ai](https://industrialmind.ai)** — building brains for factories.
 
-## Data Scientist in Manufacturing
+🏭 + 🧠 + 🤖 = my whole personality these days.
 
-## Interests & Looking for team members focusing on 
-1. solving real problem in manufacturing area with data-driving methods
-1. Digital Transformation in manufacturing
-1. Industrial Internet/IoT Infrastructure and Platform
-1. Full-stack data science including data engineering, MLOps, statistical analysis, business analysis etc.
+started life as a data scientist staring at MES dashboards and time series that made grown engineers cry. somewhere along the way i decided industrial AI shouldn't be a 60-page PDF sold to plant managers — it should be something you can actually *talk to*. so we're building that.
 
+---
 
+#### 🚧 looking for co-conspirators
 
-<!---
-SteveGaoZhitao/SteveGaoZhitao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **engineers** allergic to legacy enterprise software but excited about the world's most boring-yet-critical infrastructure
+- **manufacturing / process / ops people** who want their tribal knowledge to outlive them
+- **design partners** — run a plant, factory, or ops org? want to break things with us? let's talk
+- **investors / advisors** who nodded the first time someone said "industrial AI"
+
+→ `steven [at] industrialmind.ai` · DMs open
+
+---
+
+shanghai · industrial AI · still answers `git blame`
+
+<!--
+stvgz/stvgz is a ✨ special ✨ repository because its README.md appears on your GitHub profile at github.com/stvgz
+-->
