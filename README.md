@@ -1,26 +1,31 @@
-### hi, i'm steven 👋
+# Steven Gao
 
-ceo @ **[IndustrialMind.ai](https://industrialmind.ai)** — building brains for factories.
+**Co-founder & CEO, [IndustrialMind.ai](https://industrialmind.ai) · Engineer who still writes code.**
 
-🏭 + 🧠 + 🤖 = my whole personality these days.
+I build AI for manufacturing — grounded in the machines, processes and people doing the work.
 
-started life as a data scientist staring at MES dashboards and time series that made grown engineers cry. somewhere along the way i decided industrial AI shouldn't be a 60-page PDF sold to plant managers — it should be something you can actually *talk to*. so we're building that.
+My background spans industrial data science, factory digital transformation and building a company. I stay close to the engineering: connecting equipment, working with production data, testing models and turning ideas into usable software.
 
----
+At IndustrialMind.ai, we're building AI manufacturing engineers. Here, I share selected experiments and earlier work behind that perspective.
 
-#### 🚧 looking for co-conspirators
+### Selected engineering work
 
-- **engineers** allergic to legacy enterprise software but excited about the world's most boring-yet-critical infrastructure
-- **manufacturing / process / ops people** who want their tribal knowledge to outlive them
-- **design partners** — run a plant, factory, or ops org? want to break things with us? let's talk
-- **investors / advisors** who nodded the first time someone said "industrial AI"
+| Project | What I explored |
+| --- | --- |
+| [Industrial data with OPC UA](https://github.com/stvgz/python-opc-example) | Connecting an OPC UA server and client to MongoDB, rule-based analysis and a Python dashboard. |
+| [Tool wear prediction](https://github.com/stvgz/2018-tinachi-tool-wear-prediction) | Working with PLC and vibration data: preprocessing, feature engineering and predictive modeling. |
+| [Causal inference experiments](https://github.com/stvgz/causality-mfg) | Learning and experimenting with causal discovery and root-cause analysis. |
+| [Manufacturing ML baseline](https://github.com/stvgz/kaggle-basic-mercedes-manufacturing) | Exploratory analysis and a compact modeling approach for a manufacturing competition. |
+| [Python application prototypes](https://github.com/stvgz/python-datascience-web-apps) | Exploring how data science work becomes interactive software with Dash, Streamlit, Gradio and Bokeh. |
 
-→ `steven [at] industrialmind.ai` · DMs open
+These are research notebooks, learning projects and historical prototypes, with their scope described in each repository.
 
----
+### Writing & conversations
 
-shanghai · industrial AI · still answers `git blame`
+I write and speak about industrial AI, manufacturing and the work of building a company.
 
-<!--
-stvgz/stvgz is a ✨ special ✨ repository because its README.md appears on your GitHub profile at github.com/stvgz
--->
+[Essays & speaking](https://www.stevengao.ai) · [IndustrialMind.ai](https://industrialmind.ai) · [LinkedIn](https://www.linkedin.com/in/zhitao-gao)
+
+For engineering conversations, industrial collaboration or speaking: [steven.gao@industrialmind.ai](mailto:steven.gao@industrialmind.ai).
+
+Shanghai · English, German & Mandarin
